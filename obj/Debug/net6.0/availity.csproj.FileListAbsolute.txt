@@ -1,0 +1,17 @@
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/availity
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/availity.deps.json
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/availity.runtimeconfig.json
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/availity.dll
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/ref/availity.dll
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/availity.pdb
+/Users/arwm4/opensource/availity/bin/Debug/net6.0/CsvHelper.dll
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.csproj.AssemblyReference.cache
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.AssemblyInfoInputs.cache
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.AssemblyInfo.cs
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.csproj.CoreCompileInputs.cache
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.csproj.CopyComplete
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.dll
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/ref/availity.dll
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.pdb
+/Users/arwm4/opensource/availity/obj/Debug/net6.0/availity.genruntimeconfig.cache

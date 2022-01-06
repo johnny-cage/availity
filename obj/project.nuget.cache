@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMIgH7vlzZHCtzf4+z2w4npkrPPZmhIXetxZbuzVXK+LxpE1qWGBh/jfWKWfhZExuUWacrpW37UnphYrvNRwoA==",
+  "success": true,
+  "projectFilePath": "/Users/arwm4/opensource/availity/availity.csproj",
+  "expectedPackageFiles": [
+    "/Users/arwm4/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
