@@ -13,6 +13,7 @@ public class LispExpressionValidator {
             }
         }
 
-        return openParenthesisCount == closingParenthesisCount;
+        return input.IndexOf(")") > input.LastIndexOf("(") && 
+            openParenthesisCount == closingParenthesisCount;
     }
 }
